@@ -1,11 +1,11 @@
-# python-selenium-basic-script
-Quick browser test with python and selenium
+# python-selenium-text-scraper
+Quick test with python and selenium.
+Logs into a website, scrapes some of the text and prints it to the console.
 
-What it does:
 
-1. Opens Firefox
+1. Opens Chrome
 2. Navigates to a website
-3. Locates username, password, and submit elements
+3. Locates "username", "password", and "submit" elements
 4. Inputs username and password, then clicks login
-5. Prints "test complete"
-6. Closes the browser
+5. Scrapes some of the text on the page
+6. Prints this text to console
