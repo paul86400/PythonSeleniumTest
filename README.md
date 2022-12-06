@@ -1,4 +1,4 @@
-# python-selenium-text-scraper
+# Python Selenium Text Scraper
 Quick test with python and selenium.
 Logs into a website, scrapes some of the text and prints it to the console.
 
